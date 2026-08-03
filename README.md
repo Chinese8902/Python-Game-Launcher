@@ -6,8 +6,10 @@
 
 ## 下载地址
 
-蓝奏云下载链接：https://wwbdz.lanzoum.com/iobOn40cjb7e
+## 蓝奏云下载链接：https://wwbdz.lanzoum.com/iobOn40cjb7e
 提取密码：daew
+##  蓝奏云下载直链:
+https://h1044.lanosso.com/102d9fa9e7ec0ab3a3d6dc96336809a1/6a708972/2026/08/03/510904acf0033dac6a874c14a4891024.apk?fn=Python_1.0.0.apk
 
 ## 开源协议
 本仓库文件采用 MIT License 开源，详见 LICENSE 文件。APK内部引用第三方组件遵循对应原始开源协议，原版程序著作权归原始开发作者所有。
