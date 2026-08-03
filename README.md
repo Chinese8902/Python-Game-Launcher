@@ -5,8 +5,9 @@
 本项目为Android终端外壳程序，内置Python游戏运行环境，基于现有安卓Python终端进行学习向改造，删减冗余功能、移除内置广告，全部游戏逻辑代码封装于APK内部，不对外开源。仅对外发布成品APK安装包。
 
 ## 下载地址
-蓝奏云：https://wwbdz.lanzoum.com/ikdpF40ci7ob
-提取密码：1234
+
+蓝奏云下载链接：https://wwbdz.lanzoum.com/iobOn40cjb7e
+提取密码：daew
 
 ## 开源协议
 本仓库文件采用 MIT License 开源，详见 LICENSE 文件。APK内部引用第三方组件遵循对应原始开源协议，原版程序著作权归原始开发作者所有。
